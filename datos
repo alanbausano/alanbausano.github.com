@@ -8,91 +8,91 @@
         {
             "id": 2,
             "nombre": "Escritorio con Bandejas",
-            "descripcion": "Escritorio con compartimentos. ",
-            "medidas": "77cm x 100cm x 50cm",
+            "descripcion": "Escritorio con compartimentos.",
+            "medidas": "77cm x 100cm x 60cm",
             "precio": 300
         },
         {
             "id": 3,
-            "nombre": "Raviolón Verduril",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
-            "medidas": "77cm x 100cm x 50cm",
+            "nombre": "Escritorio doble",
+            "descripcion": "Escritorio con mesa de dibujo incluida.",
+            "medidas": "75cm x 100cm x 50cm",
             "precio": 300
         },
         {
             "id": 4,
-            "nombre": "Raviolón Veggie",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
+            "nombre": "Escritorio Esquinero",
+            "descripcion": "Escritorio en forma de L para colocar en una esquina",
             "medidas": "77cm x 100cm x 50cm",
             "precio": 300
-        },
-        {
-            "id": 4,
-            "nombre": "Berenjenal",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
-            "medidas": "77cm x 100cm x 50cm",
-            "precio": 250
         },
         {
             "id": 5,
-            "nombre": "Arabe",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
-            "medidas": "77cm x 100cm x 50cm",
-            "precio": 250
+            "nombre": "Silla",
+            "descripcion": "Silla",
+            "medidas": "70cm a 85 x 60cm",
+            "precio": 300
         },
         {
             "id": 6,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
-            "medidas": "77cm x 100cm x 50cm",
+            "nombre": "Silla",
+            "descripcion": "Silla",
+            "medidas": "77cm x 50cm",
+            "precio": 250
+        },
+        {
+            "id": 7,
+            "nombre": "Silla",
+            "descripcion": "Silla",
+            "medidas": "77cm x 50cm",
             "precio": 350
          },
          {
-            "id": 7,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
-            "medidas": "77cm x 100cm x 50cm",
+            "id": 8,
+            "nombre": "Silla",
+            "descripcion": "Silla",
+            "medidas": "77cm x 50cm",
             "precio": 350
          },
         {
-            "id": 8,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
-            "medidas": "77cm x 100cm x 50cm",
-            "precio": 350
-          },
-          {
             "id": 9,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
+            "nombre": "Mesa",
+            "descripcion": "Mesa",
             "medidas": "77cm x 100cm x 50cm",
             "precio": 350
           },
           {
             "id": 10,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
+            "nombre": "Mesa",
+            "descripcion": "Mesa",
             "medidas": "77cm x 100cm x 50cm",
             "precio": 350
           },
           {
             "id": 11,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
+            "nombre": "Mesa",
+            "descripcion": "Mesa",
             "medidas": "77cm x 100cm x 50cm",
             "precio": 350
           },
           {
             "id": 12,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
+            "nombre": "Mesa",
+            "descripcion": "Mesa",
             "medidas": "77cm x 100cm x 50cm",
             "precio": 350
           },
           {
             "id": 13,
-            "nombre": "Tano",
-            "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m)",
+            "nombre": "Combinado",
+            "descripcion": "Silla y escritorio",
+            "medidas": "77cm x 100cm x 50cm",
+            "precio": 350
+          },
+          {
+            "id": 14,
+            "nombre": "Combinado",
+            "descripcion": "Sillas y mesa",
             "medidas": "77cm x 100cm x 50cm",
             "precio": 350
           }]
