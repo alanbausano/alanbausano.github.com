@@ -1,5 +1,6 @@
 [{
   "id": 1,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Escritorio Regulable",
   "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m).",
   "medidas": "70cm a 160cm x 120cm x 50cm",
@@ -7,6 +8,7 @@
 }, 
 {
   "id": 2,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-2.jpg",
   "nombre": "Escritorio con Bandejas",
   "descripcion": "Escritorio con compartimentos.",
   "medidas": "77cm x 100cm x 60cm",
@@ -14,6 +16,7 @@
 },
 {
   "id": 3,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/escritorio-03.jpg",
   "nombre": "Escritorio doble",
   "descripcion": "Escritorio con mesa de dibujo incluida.",
   "medidas": "75cm x 100cm x 50cm",
@@ -21,6 +24,7 @@
 },
 {
   "id": 4,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-4.jpg",
   "nombre": "Escritorio Esquinero",
   "descripcion": "Escritorio en forma de L para colocar en una esquina",
   "medidas": "77cm x 100cm x 50cm",
@@ -28,6 +32,7 @@
 },
 {
   "id": 5,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-5.jpg",
   "nombre": "Silla",
   "descripcion": "Silla",
   "medidas": "70cm a 85 x 60cm",
@@ -35,6 +40,7 @@
 },
 {
   "id": 6,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Silla",
   "descripcion": "Silla",
   "medidas": "77cm x 50cm",
@@ -42,6 +48,7 @@
 },
 {
   "id": 7,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Silla",
   "descripcion": "Silla",
   "medidas": "77cm x 50cm",
@@ -49,6 +56,7 @@
 },
 {
   "id": 8,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Silla",
   "descripcion": "Silla",
   "medidas": "77cm x 50cm",
@@ -56,6 +64,7 @@
 },
 {
   "id": 9,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Mesa",
   "descripcion": "Mesa",
   "medidas": "77cm x 100cm x 50cm",
@@ -63,6 +72,7 @@
 },
 {
   "id": 10,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Mesa",
   "descripcion": "Mesa",
   "medidas": "77cm x 100cm x 50cm",
@@ -70,6 +80,7 @@
 },
 {
   "id": 11,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Mesa",
   "descripcion": "Mesa",
   "medidas": "77cm x 100cm x 50cm",
@@ -77,6 +88,7 @@
 },
 {
   "id": 12,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Mesa",
   "descripcion": "Mesa",
   "medidas": "77cm x 100cm x 50cm",
@@ -84,6 +96,7 @@
 },
 {
   "id": 13,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Combinado",
   "descripcion": "Silla y escritorio",
   "medidas": "77cm x 100cm x 50cm",
@@ -91,6 +104,7 @@
 },
 {
   "id": 14,
+  "img": "https://raw.githubusercontent.com/alanbausano/alanbausano.github.com/main/imagenes/desk-1.jpg",
   "nombre": "Combinado",
   "descripcion": "Sillas y mesa",
   "medidas": "77cm x 100cm x 50cm",
