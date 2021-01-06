@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/escri-1.jpg",
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
   "nombre": "Escritorio Regulable",
   "descripcion": "Escritorio con altura regulable (hasta 1.20m).",
   "medidas": "Alto: 70cm a 120cm x Largo: 120cm x Profundidad: 50cm",
@@ -8,7 +8,7 @@
 }, 
 {
   "id": 2,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/escri-2.jpg",
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-2.jpg",
   "nombre": "Escritorio Madera",
   "descripcion": "Escritorio con compartimentos.",
   "medidas": "77cm x 100cm x 60cm",
@@ -16,7 +16,7 @@
 },
 {
   "id": 3,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/escri-3.jpg",
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/escritorio-03.jpg",
   "nombre": "Escritorio Doble",
   "descripcion": "Escritorio con mesa de dibujo incluida.",
   "medidas": "Alto: 75cm x Largo: 100cm x Profundidad: 50cm",
@@ -24,7 +24,7 @@
 },
 {
   "id": 4,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/escri-4.jpg",
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-4.jpg",
   "nombre": "Escritorio Esquinero",
   "descripcion": "Escritorio en forma de L para colocar en una esquina",
   "medidas": "Alto: 75cm x Largo: 160cm x Profundidad: 60cm",
@@ -32,7 +32,7 @@
 },
 {
   "id": 5,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/escri-5.jpg",
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-5.jpg",
   "nombre": "Escritorio Compuesto",
   "descripcion": "Escritorio acompañado de cajones y una bandeja",
   "medidas": "Alto: 70cm x Largo: 90cm x Profundidad: 65cm",
