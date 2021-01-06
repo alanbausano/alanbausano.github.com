@@ -2,111 +2,119 @@
   "id": 1,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
   "nombre": "Escritorio Regulable",
-  "descripcion": "Escritorio con altura regulable. Apto para trabajar parado (hasta 1.60m).",
-  "medidas": "70cm a 160cm x 120cm x 50cm",
-  "precio": 300
+  "descripcion": "Escritorio con altura regulable (hasta 1.20m).",
+  "medidas": "Alto: 70cm a 120cm x Largo: 120cm x Profundidad: 50cm",
+  "precio": 11000
 }, 
 {
   "id": 2,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-2.jpg",
-  "nombre": "Escritorio con Bandejas",
+  "nombre": "Escritorio Madera",
   "descripcion": "Escritorio con compartimentos.",
   "medidas": "77cm x 100cm x 60cm",
-  "precio": 300
+  "precio": 12000
 },
 {
   "id": 3,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/escritorio-03.jpg",
-  "nombre": "Escritorio doble",
+  "nombre": "Escritorio Doble",
   "descripcion": "Escritorio con mesa de dibujo incluida.",
-  "medidas": "75cm x 100cm x 50cm",
-  "precio": 300
+  "medidas": "Alto: 75cm x Largo: 100cm x Profundidad: 50cm",
+  "precio": 13500
 },
 {
   "id": 4,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-4.jpg",
   "nombre": "Escritorio Esquinero",
   "descripcion": "Escritorio en forma de L para colocar en una esquina",
-  "medidas": "77cm x 100cm x 50cm",
-  "precio": 300
+  "medidas": "Alto: 75cm x Largo: 160cm x Profundidad: 60cm",
+  "precio": 14000
 },
 {
   "id": 5,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-5.jpg",
-  "nombre": "Silla",
-  "descripcion": "Silla",
-  "medidas": "70cm a 85 x 60cm",
-  "precio": 300
+  "nombre": "Escritorio Compuesto",
+  "descripcion": "Escritorio acompañado de cajones y una bandeja",
+  "medidas": "Alto: 70cm x Largo: 90cm x Profundidad: 65cm",
+  "precio": 21500
 },
 {
   "id": 6,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Silla",
-  "descripcion": "Silla",
-  "medidas": "77cm x 50cm",
-  "precio": 250
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/silla-1.jpg",
+  "nombre": "Silla Chambers",
+  "descripcion": "Silla de oficina, construida con cuero y acero",
+  "medidas": "Alto: 105cm  x Largo: 70cm",
+  "precio": 19000
 },
 {
   "id": 7,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Silla",
-  "descripcion": "Silla",
-  "medidas": "77cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/silla-2.jpg",
+  "nombre": "Silla Kepler",
+  "descripcion": "Silla de oficina, con apoyabrazos y respaldo ergonómico",
+  "medidas": "Alto: 128cm  x Largo: 74cm",
+  "precio": 15650
 },
 {
   "id": 8,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Silla",
-  "descripcion": "Silla",
-  "medidas": "77cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/silla-3.jpg",
+  "nombre": "Silla Lancaster",
+  "descripcion": "Silla de oficina con altura regulable y base de metal",
+  "medidas": "Alto: 100cm  x Largo: 68cm",
+  "precio": 17500
 },
 {
   "id": 9,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Mesa",
-  "descripcion": "Mesa",
-  "medidas": "77cm x 100cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/silla-4.jpg",
+  "nombre": "Sillón Carpenter",
+  "descripcion": "Sillón Gamer con altura regulable, íntegramente de cuero y base de metal",
+  "medidas": "Alto: 130cm  x Largo: 76cm",
+  "precio": 19000
 },
 {
   "id": 10,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Mesa",
-  "descripcion": "Mesa",
-  "medidas": "77cm x 100cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-1.jpg",
+  "nombre": "Mesa Eames 120",
+  "descripcion": "Mesa tapa blanca laqueada, con patas de madera tono claro.",
+  "medidas": "77cm x 100cm x 70cm",
+  "precio": 23000
 },
 {
   "id": 11,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Mesa",
-  "descripcion": "Mesa",
-  "medidas": "77cm x 100cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-2.jpg",
+  "nombre": "Mesa Eames Wood",
+  "descripcion": "Mesa con tapa de vidrio y base de madera.",
+  "medidas": "70cm x 120cm x 120cm",
+  "precio": 15000
 },
 {
   "id": 12,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Mesa",
-  "descripcion": "Mesa",
-  "medidas": "77cm x 100cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-3.jpg",
+  "nombre": "Mesa Juana",
+  "descripcion": "Mesa cuadrada con tapa de melamina y base de madera",
+  "medidas": "70cm x 120cm x 73cm ",
+  "precio": 16650
 },
 {
   "id": 13,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Combinado",
-  "descripcion": "Silla y escritorio",
-  "medidas": "77cm x 100cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-4.jpg",
+  "nombre": "Mesa Vidrio",
+  "descripcion": "Mesa con tapa de vidrio y base de metal",
+  "medidas": "77cm x 130cm x 65cm",
+  "precio": 18000
 },
 {
   "id": 14,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Combinado",
-  "descripcion": "Sillas y mesa",
-  "medidas": "77cm x 100cm x 50cm",
-  "precio": 350
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/set-1.jpg",
+  "nombre": "Set Combinado",
+  "descripcion": "Combinado de mesa y 4 sillas Eames",
+  "medidas": "Mesa: Alto: 77cm x Largo: 100cm x Profundidad: 50cm - Sillas: Alto: 75cm x Profundidad: 60cm",
+  "precio": 35625
+},
+{
+  "id": 15,
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/set-2.jpg",
+  "nombre": "Set Combinado 2",
+  "descripcion": "Combinado de mesa redonda y 2 sillas Eames",
+  "medidas": "Mesa: Alto: 70cm x Largo: 120cm x Profundidad: 60cm - Sillas: Alto: 73cm x Profundidad: 65cm",
+  "precio": 30125
 }]
