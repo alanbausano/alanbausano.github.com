@@ -9,7 +9,7 @@
 {
   "id": 2,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-2.jpg",
-  "nombre": "Escritorio Madera",
+  "nombre": "Escritorio Simple",
   "descripcion": "Escritorio con compartimentos.",
   "medidas": "Alto: 77cm x Largo: 100cm x Profundidad: 60cm",
   "precio": 12000
@@ -25,16 +25,16 @@
 {
   "id": 4,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
-  "nombre": "Escritorio Esquinero",
-  "descripcion": "Escritorio en forma de L para colocar en una esquina",
+  "nombre": "Escritorio Melamina",
+  "descripcion": "Escritorio de melamina con base de metal",
   "medidas": "Alto: 75cm x Largo: 160cm x Profundidad: 60cm",
   "precio": 14000
 },
 {
   "id": 5,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-5.jpg",
-  "nombre": "Escritorio Compuesto",
-  "descripcion": "Escritorio acompañado de cajones y una bandeja",
+  "nombre": "Escritorio Caoba",
+  "descripcion": "Escritorio íntegramente de madera Caoba Laqueado",
   "medidas": "Alto: 70cm x Largo: 90cm x Profundidad: 65cm",
   "precio": 21500
 },
