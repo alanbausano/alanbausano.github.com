@@ -1,8 +1,8 @@
 [{
   "id": 1,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-4.jpg",
   "nombre": "Escritorio Regulable",
-  "descripcion": "Escritorio con altura regulable (hasta 1.20m).",
+  "descripcion": "Escritorio con altura regulable (hasta 1.20m). Ideal para trabajar parado",
   "medidas": "Alto: 70cm a 120cm x Largo: 120cm x Profundidad: 50cm",
   "precio": 11000
 }, 
@@ -11,7 +11,7 @@
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-2.jpg",
   "nombre": "Escritorio Madera",
   "descripcion": "Escritorio con compartimentos.",
-  "medidas": "77cm x 100cm x 60cm",
+  "medidas": "Alto: 77cm x Largo: 100cm x Profundidad: 60cm",
   "precio": 12000
 },
 {
@@ -24,7 +24,7 @@
 },
 {
   "id": 4,
-  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-4.jpg",
+  "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-1.jpg",
   "nombre": "Escritorio Esquinero",
   "descripcion": "Escritorio en forma de L para colocar en una esquina",
   "medidas": "Alto: 75cm x Largo: 160cm x Profundidad: 60cm",
@@ -75,7 +75,7 @@
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-1.jpg",
   "nombre": "Mesa Eames 120",
   "descripcion": "Mesa tapa blanca laqueada, con patas de madera tono claro.",
-  "medidas": "77cm x 100cm x 70cm",
+  "medidas": "Alto: 77cm x Largo: 100cm x Profundidad: 70cm",
   "precio": 23000
 },
 {
@@ -83,7 +83,7 @@
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-2.jpg",
   "nombre": "Mesa Eames Wood",
   "descripcion": "Mesa con tapa de vidrio y base de madera.",
-  "medidas": "70cm x 120cm x 120cm",
+  "medidas": "Alto: 70cm x Largo: 120cm x Profundidad: 120cm",
   "precio": 15000
 },
 {
@@ -91,7 +91,7 @@
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-3.jpg",
   "nombre": "Mesa Juana",
   "descripcion": "Mesa cuadrada con tapa de melamina y base de madera",
-  "medidas": "70cm x 120cm x 73cm ",
+  "medidas": "Alto: 70cm x Largo: 120cm x Profundidad: 73cm ",
   "precio": 16650
 },
 {
@@ -99,7 +99,7 @@
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/mesa-4.jpg",
   "nombre": "Mesa Vidrio",
   "descripcion": "Mesa con tapa de vidrio y base de metal",
-  "medidas": "77cm x 130cm x 65cm",
+  "medidas": "Alto: 77cm x Largo: 130cm x Profundidad: 65cm",
   "precio": 18000
 },
 {
