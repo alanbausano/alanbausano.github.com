@@ -2,7 +2,7 @@
   "id": 1,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-4.jpg",
   "nombre": "Escritorio Regulable",
-  "descripcion": "Escritorio con altura regulable (hasta 1.20m). Ideal para trabajar parado",
+  "descripcion": "Escritorio con altura regulable (hasta 1.20m). Ideal para trabajar de pie",
   "medidas": "Alto: 70cm a 120cm x Largo: 120cm x Profundidad: 50cm",
   "precio": 11000
 }, 
@@ -10,7 +10,7 @@
   "id": 2,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-2.jpg",
   "nombre": "Escritorio Simple",
-  "descripcion": "Escritorio con compartimentos.",
+  "descripcion": "Escritorio de madera con dos cajones.",
   "medidas": "Alto: 77cm x Largo: 100cm x Profundidad: 60cm",
   "precio": 12000
 },
@@ -34,7 +34,7 @@
   "id": 5,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/desk-5.jpg",
   "nombre": "Escritorio Caoba",
-  "descripcion": "Escritorio íntegramente de madera Caoba Laqueado",
+  "descripcion": "Escritorio íntegramente de madera Caoba laqueado",
   "medidas": "Alto: 70cm x Largo: 90cm x Profundidad: 65cm",
   "precio": 21500
 },
@@ -42,7 +42,7 @@
   "id": 6,
   "img": "https://raw.githubusercontent.com/alanbausano/imagenes/main/imagenes/silla-1.jpg",
   "nombre": "Silla Chambers",
-  "descripcion": "Silla de oficina, construida con cuero y acero",
+  "descripcion": "Silla de oficina, de cuero y base de acero",
   "medidas": "Alto: 105cm  x Largo: 70cm",
   "precio": 19000
 },
