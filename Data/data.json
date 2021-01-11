@@ -4,7 +4,8 @@
   "nombre": "Escritorio Regulable",
   "descripcion": "Escritorio con altura regulable (hasta 1.20m). Ideal para trabajar de pie",
   "medidas": "Alto: 70cm a 120cm x Largo: 120cm x Profundidad: 50cm",
-  "precio": 11000
+  "precio": 11000,
+  "direccion": "/regulable"
 }, 
 {
   "id": 2,
@@ -12,7 +13,8 @@
   "nombre": "Escritorio Simple",
   "descripcion": "Escritorio de madera con dos cajones.",
   "medidas": "Alto: 77cm x Largo: 100cm x Profundidad: 60cm",
-  "precio": 12000
+  "precio": 12000,
+  "direccion": "/simple"
 },
 {
   "id": 3,
@@ -20,7 +22,8 @@
   "nombre": "Escritorio Doble",
   "descripcion": "Escritorio con mesa de dibujo incluida.",
   "medidas": "Alto: 75cm x Largo: 100cm x Profundidad: 50cm",
-  "precio": 13500
+  "precio": 13500,
+  "direccion": "/doble"
 },
 {
   "id": 4,
@@ -28,7 +31,8 @@
   "nombre": "Escritorio Melamina",
   "descripcion": "Escritorio de melamina con base de metal",
   "medidas": "Alto: 75cm x Largo: 160cm x Profundidad: 60cm",
-  "precio": 14000
+  "precio": 14000,
+  "direccion": "/melamina"
 },
 {
   "id": 5,
@@ -36,7 +40,8 @@
   "nombre": "Escritorio Caoba",
   "descripcion": "Escritorio íntegramente de madera Caoba laqueado",
   "medidas": "Alto: 70cm x Largo: 90cm x Profundidad: 65cm",
-  "precio": 21500
+  "precio": 21500,
+  "direccion": "/caoba"
 },
 {
   "id": 6,
@@ -44,7 +49,8 @@
   "nombre": "Silla Chambers",
   "descripcion": "Silla de oficina, de cuero y base de acero",
   "medidas": "Alto: 105cm  x Largo: 70cm",
-  "precio": 19000
+  "precio": 19000,
+  "direccion": "/chambers"
 },
 {
   "id": 7,
@@ -52,7 +58,8 @@
   "nombre": "Silla Kepler",
   "descripcion": "Silla de oficina, con apoyabrazos y respaldo ergonómico",
   "medidas": "Alto: 128cm  x Largo: 74cm",
-  "precio": 15650
+  "precio": 15650,
+  "direccion": "/kepler"
 },
 {
   "id": 8,
@@ -60,7 +67,8 @@
   "nombre": "Silla Lancaster",
   "descripcion": "Silla de oficina con altura regulable y base de metal",
   "medidas": "Alto: 100cm  x Largo: 68cm",
-  "precio": 17500
+  "precio": 17500,
+  "direccion": "/lancaster"
 },
 {
   "id": 9,
@@ -68,7 +76,8 @@
   "nombre": "Sillón Carpenter",
   "descripcion": "Sillón Gamer con altura regulable, íntegramente de cuero y base de metal",
   "medidas": "Alto: 130cm  x Largo: 76cm",
-  "precio": 19000
+  "precio": 19000,
+  "direccion": "/carpenter"
 },
 {
   "id": 10,
@@ -76,7 +85,8 @@
   "nombre": "Mesa Eames 120",
   "descripcion": "Mesa tapa blanca laqueada, con patas de madera tono claro.",
   "medidas": "Alto: 77cm x Largo: 100cm x Profundidad: 70cm",
-  "precio": 23000
+  "precio": 23000,
+  "direccion": "/eames"
 },
 {
   "id": 11,
@@ -84,7 +94,8 @@
   "nombre": "Mesa Eames Wood",
   "descripcion": "Mesa con tapa de vidrio y base de madera.",
   "medidas": "Alto: 70cm x Largo: 120cm x Profundidad: 120cm",
-  "precio": 15000
+  "precio": 15000,
+  "direccion": "/wood"
 },
 {
   "id": 12,
@@ -92,7 +103,8 @@
   "nombre": "Mesa Juana",
   "descripcion": "Mesa cuadrada con tapa de melamina y base de madera",
   "medidas": "Alto: 70cm x Largo: 120cm x Profundidad: 73cm ",
-  "precio": 16650
+  "precio": 16650,
+  "direccion": "/juana"
 },
 {
   "id": 13,
@@ -100,7 +112,8 @@
   "nombre": "Mesa Vidrio",
   "descripcion": "Mesa con tapa de vidrio y base de metal",
   "medidas": "Alto: 77cm x Largo: 130cm x Profundidad: 65cm",
-  "precio": 18000
+  "precio": 18000,
+  "direccion": "/vidrio"
 },
 {
   "id": 14,
@@ -108,7 +121,8 @@
   "nombre": "Set Combinado",
   "descripcion": "Combinado de mesa y 4 sillas Eames",
   "medidas": "Mesa: Alto: 77cm x Largo: 100cm x Profundidad: 50cm - Sillas: Alto: 75cm x Profundidad: 60cm",
-  "precio": 35625
+  "precio": 35625,
+  "direccion": "/primerset"
 },
 {
   "id": 15,
@@ -116,5 +130,6 @@
   "nombre": "Set Combinado 2",
   "descripcion": "Combinado de mesa redonda y 2 sillas Eames",
   "medidas": "Mesa: Alto: 70cm x Largo: 120cm x Profundidad: 60cm - Sillas: Alto: 73cm x Profundidad: 65cm",
-  "precio": 30125
+  "precio": 30125,
+  "direccion": "/segundoset"
 }]
